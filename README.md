@@ -1,6 +1,6 @@
 # Misc scripts for Overlunky
 
-Scripts were written for Overlunky 0.4.7, but may work with newer versions.
+Scripts were written for Overlunky 0.5.1, but may work with newer versions.
 
 ## How to
 
